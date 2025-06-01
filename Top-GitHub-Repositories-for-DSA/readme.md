@@ -9,4 +9,5 @@
 7. [Awesome Competitive Programming](https://github.com/lnishan/awesome-competitive-programming) – Curated list of resources for competitive programming including DSA repositories.  
 8. [AlgoExpert Solutions](https://github.com/das-jishu/algoexpert-data-structures-algorithms) – Patterns and solutions from AlgoExpert curated problems.
 9. [Company wise LeetCode Questions](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise) 
+10. [Programming Street - 150](https://github.com/Preparation-Street/Programming-Street-150) - Starting from Zero in Coding - DSA is a critical Problem-Solving Skill, it's important to build a strong foundation before diving into it.
 
