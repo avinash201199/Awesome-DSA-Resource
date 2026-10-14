@@ -13,5 +13,6 @@
 11. [Take U Forward](https://takeuforward.org/) – Premium-quality DSA roadmap, curated problems, and YouTube explanations by Striver.
 12. [NeetCode](https://neetcode.io/) – Clean, structured DSA roadmap with problems categorized by topic and difficulty.   
 13. [Khan Academy – Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) – Beginner-friendly visual explanations and quizzes.  
+14. [SolveLogs](https://solvelogs.com/) – Interactive DSA lessons with step-by-step visual tracers and Python, C++, and Java implementations.  
 
 
