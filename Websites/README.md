@@ -14,5 +14,6 @@
 12. [NeetCode](https://neetcode.io/) – Clean, structured DSA roadmap with problems categorized by topic and difficulty.   
 13. [Khan Academy – Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) – Beginner-friendly visual explanations and quizzes.  
 14. [SolveLogs](https://solvelogs.com/) – Interactive DSA lessons with step-by-step visual tracers and Python, C++, and Java implementations.  
+15. [ntree.ai](https://ntree.ai) – Line-by-line code visualiser that runs code in a real debugger and draws the state of the program at each line with data structures, with popular DSA problems and solutions.
 
 
